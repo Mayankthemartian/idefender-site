@@ -1,0 +1,26 @@
+{
+  "slug": "brand-identity",
+  "meta": {
+    "title": "iDefender",
+    "description": "iDesigner Lite, the portfolio Webflow Template for its intuitive CMS and versatile animations are geared towards enriching the user experience.",
+    "og_title": "iDesigner Lite - Webflow HTML website template",
+    "og_description": "iDesigner Lite, the portfolio Webflow Template for its intuitive CMS and versatile animations are geared towards enriching the user experience.",
+    "og_image": "../images/dts_new_studio_daniel_far-c3-b2_photos_id5624.jpg",
+    "twitter_title": "iDesigner Lite - Webflow HTML website template",
+    "twitter_description": "iDesigner Lite, the portfolio Webflow Template for its intuitive CMS and versatile animations are geared towards enriching the user experience.",
+    "twitter_image": "../images/dts_new_studio_daniel_far-c3-b2_photos_id5624.jpg"
+  },
+  "title": "Vivechana — Enterprise Intelligence",
+  "summary": "Vivechana is an enterprise intelligence platform built to consolidate fragmented operational data into a single, governed source of truth—enabling real-time visibility and confident decision-making across the organization.",
+  "client": "Asteron Group",
+  "category": "Intelligence",
+  "date": "December 8, 2024",
+  "hero_image": "../images/dts_new_studio_daniel_far-c3-b2_photos_id5624.jpg",
+  "body_html": "<div class=\"works-rich-text slide-up-animation w-richtext\"><h2>Project Overview:</h2><p>This engagement focused on building a unified enterprise intelligence platform for a large organization operating across multiple business units and systems. Critical operational, risk, and performance data existed across disconnected tools, databases, and workflows, resulting in slow decision-making and limited real-time visibility.</p><p>iDefender was engaged to design and implement a centralized intelligence layer that consolidated data from across the enterprise into a single, governed platform. The objective was not just reporting, but enabling continuous, real-time insight accessible to both operational teams and executive leadership.</p><p>‍</p><h3>Objectives:</h3><p>The primary objective was to eliminate data silos and establish a trusted single source of truth across the organization. Leadership required real-time visibility into operational performance, risk indicators, and emerging trends—without relying on manual reporting cycles or fragmented dashboards.</p><p>A key requirement was that insights be <strong>actionable</strong>, not purely descriptive. The platform needed to support predictive and forward-looking analysis, allowing teams to identify risks, inefficiencies, and opportunities early rather than after impact.</p><p>Scalability was also critical. The solution had to support growing data volumes, expanding user access, and evolving analytical needs without frequent architectural changes or performance trade-offs.</p><h3>Scope of Work:</h3><p>iDefender designed and deployed a centralized enterprise data architecture capable of ingesting data from multiple internal systems, third-party tools, and operational databases. This included building robust data pipelines, transformation logic, and governance controls to ensure accuracy, consistency, and traceability across the platform.</p><p>Custom analytics layers and executive dashboards were developed to surface key performance indicators, operational trends, and risk signals in real time. The platform was integrated with existing enterprise systems to ensure seamless adoption, while role-based access controls and governance mechanisms were embedded to meet security and compliance requirements by design.</p><h3><strong>Outcome &amp; Impact</strong></h3><p>Following deployment, the organization achieved real-time visibility across business units that had previously operated in isolation. Reporting cycles that once took days were reduced to minutes, and leadership gained the ability to monitor performance and risk continuously rather than retrospectively.</p><p>The platform enabled predictive insights, allowing teams to anticipate operational bottlenecks and respond proactively. By establishing a scalable intelligence foundation, the organization positioned itself to continuously evolve its analytics capabilities as complexity, data volume, and business demands increased.</p>",
+  "gallery": [
+    "../images/dts_player_two_jelly_luise_photos_id13466.jpg",
+    "../images/dts_misc_1_-nick_fancher-_nick_fancher_photos_id6069.jpg",
+    "../images/dts_midnight_agenda_shauna_summers_photos_id13064.jpg"
+  ],
+  "link": "/works/brand-identity"
+}

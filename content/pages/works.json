@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "title": "iDefender",
+    "description": "iDesigner Lite, the portfolio Webflow Template for its intuitive CMS and versatile animations are geared towards enriching the user experience.",
+    "og_title": "iDesigner Lite - Webflow HTML website template",
+    "og_description": "iDesigner Lite, the portfolio Webflow Template for its intuitive CMS and versatile animations are geared towards enriching the user experience.",
+    "og_image": "images/seo.png",
+    "twitter_title": "iDesigner Lite - Webflow HTML website template",
+    "twitter_description": "iDesigner Lite, the portfolio Webflow Template for its intuitive CMS and versatile animations are geared towards enriching the user experience.",
+    "twitter_image": "images/seo.png"
+  },
+  "header": {
+    "title": "Works",
+    "subtitle": "Enterprise platforms and solutions built to scale intelligence, governance, and operations."
+  },
+  "works": [
+    {
+      "slug": "brand-identity",
+      "title": "Vivechana — Enterprise Intelligence",
+      "badge_1": "Intelligence",
+      "badge_2": "Analytics Platform",
+      "image": "images/dts_new_studio_daniel_far-c3-b2_photos_id5624.jpg",
+      "href": "/works/brand-identity"
+    },
+    {
+      "slug": "development",
+      "title": "Platform Architecture & Engineering",
+      "badge_1": "Enterprise Tech",
+      "badge_2": "Enterprise Systems",
+      "image": "images/dts_shadow_tech_fanette_guilloud_photos_id9337.jpg",
+      "href": "/works/development"
+    },
+    {
+      "slug": "digital-marketing",
+      "title": "BazaarBandhu — Enterprise Commerce Platform",
+      "badge_1": "Commerce",
+      "badge_2": "Platforms",
+      "image": "images/dts_midnight_agenda_shauna_summers_photos_id13064.jpg",
+      "href": "/works/digital-marketing"
+    },
+    {
+      "slug": "marketing-strategy",
+      "title": "Niyanta — Governance & Compliance",
+      "badge_1": "Governance",
+      "badge_2": "Compliance",
+      "image": "images/dts_new_studio_daniel_far-c3-b2_photos_id5608-1.jpg",
+      "href": "/works/marketing-strategy"
+    },
+    {
+      "slug": "software-solution",
+      "title": "Niyanta AI — Intelligent Automation",
+      "badge_1": "Automation",
+      "badge_2": "AI Systems",
+      "image": "images/dts_grand_design_daniel_far-c3-b2_photos_id4156.jpg",
+      "href": "/works/software-solution"
+    },
+    {
+      "slug": "website-redesign",
+      "title": "Digital Transformation",
+      "badge_1": "Enterprise",
+      "badge_2": "Operations",
+      "image": "images/dts_bedroom_dj_agust-c3-adn_far-c3-adas_photos_id11660.jpg",
+      "href": "/works/website-redesign"
+    }
+  ]
+}

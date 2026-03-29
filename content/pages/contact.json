@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "title": "iDefender",
+    "description": "iDesigner Lite, the portfolio Webflow Template for its intuitive CMS and versatile animations are geared towards enriching the user experience.",
+    "og_title": "iDesigner Lite - Webflow HTML website template",
+    "og_description": "iDesigner Lite, the portfolio Webflow Template for its intuitive CMS and versatile animations are geared towards enriching the user experience.",
+    "og_image": "images/seo.png",
+    "twitter_title": "iDesigner Lite - Webflow HTML website template",
+    "twitter_description": "iDesigner Lite, the portfolio Webflow Template for its intuitive CMS and versatile animations are geared towards enriching the user experience.",
+    "twitter_image": "images/seo.png"
+  },
+  "header": {
+    "title": "Contact",
+    "subtitle": "Let’s discuss your platform, governance, or intelligence requirements. Our team will respond with clarity on scope, feasibility, and next steps."
+  },
+  "form": {
+    "name_label": "Name",
+    "name_placeholder": "e. g. Rahul Sharma",
+    "email_label": "Email Address",
+    "email_placeholder": "e. g.rahul@company.com",
+    "phone_label": "Phone Number",
+    "phone_placeholder": "+91 98XXXXXX42",
+    "message_label": "Your Message",
+    "message_placeholder": "Write Your Message Here",
+    "submit_label": "Send Message",
+    "success_message": "Thank you! Your submission has been received!",
+    "error_message": "Oops! Something went wrong while submitting the form."
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "meta": {
+    "title": "iDefender",
+    "description": "iDesigner Lite, the portfolio Webflow Template for its intuitive CMS and versatile animations are geared towards enriching the user experience.",
+    "og_title": "iDesigner Lite - Webflow HTML website template",
+    "og_description": "iDesigner Lite, the portfolio Webflow Template for its intuitive CMS and versatile animations are geared towards enriching the user experience.",
+    "og_image": "images/seo.png",
+    "twitter_title": "iDesigner Lite - Webflow HTML website template",
+    "twitter_description": "iDesigner Lite, the portfolio Webflow Template for its intuitive CMS and versatile animations are geared towards enriching the user experience.",
+    "twitter_image": "images/seo.png"
+  },
+  "hero": {
+    "eyebrow": "Get To Know",
+    "heading": "ABOUT",
+    "body_html": "We build enterprise platforms that unify intelligence, automate governance, and scale mission-critical operations for modern organizations. iDefender combines proprietary platforms with deep advisory expertise to solve complex enterprise challenges at scale.<br/><br/>Founded through years of enterprise IT services and operations, we identified recurring patterns across industries—fragmented data, governance gaps, and operational inefficiencies. Rather than addressing these issues in isolation, we built platforms designed to solve them systematically.<br/><br/>Today, our platforms power intelligence, compliance, automation, and commerce for enterprises that demand reliability, security, and scale. Our advisory services ensure these platforms deliver measurable value from implementation through long-term operations.",
+    "image": "images/dts_midnight_agenda_shauna_summers_photos_id13067.jpg"
+  },
+  "story": {
+    "eyebrow": "GET TO KNOW",
+    "title_prefix": "Our",
+    "title": "STORY",
+    "summary": "We build enterprise platforms that unify intelligence, automate governance, and scale mission-critical operations for modern organizations.",
+    "body_html": "",
+    "image": ""
+  },
+  "testimonials": [
+    {
+      "quote": "IDefender helped us consolidate fragmented data and operational workflows into a single platform. The visibility and control we gained fundamentally improved how we make decisions.",
+      "name": "Rahul Mehta",
+      "role": "Head of Operations",
+      "image": "images/download-20-14-.jpg"
+    },
+    {
+      "quote": "The platform architecture and governance-first approach stood out immediately. iDefender delivered systems that were scalable, compliant, and ready for enterprise-grade operations from day one.",
+      "name": "Siddharth Rao",
+      "role": "Chief Information Officer",
+      "image": "images/download-20-13-.jpg"
+    },
+    {
+      "quote": "From deployment to ongoing operations, the iDefender team demonstrated deep understanding of enterprise complexity. The platform continues to scale reliably as our needs evolve.",
+      "name": "Ananya Kapoor",
+      "role": "Chief Information Officer",
+      "image": "images/download-20-4-.jpg"
+    }
+  ]
+}

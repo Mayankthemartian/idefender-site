@@ -1,0 +1,248 @@
+backend:
+  name: github
+  repo: REPLACE_WITH_YOUR_GITHUB_USERNAME/REPLACE_WITH_YOUR_REPO_NAME
+  branch: main
+
+media_folder: "images/uploads"
+public_folder: "/images/uploads"
+publish_mode: editorial_workflow
+
+collections:
+  - name: "site"
+    label: "Site Settings"
+    files:
+      - label: "Global Settings"
+        name: "settings"
+        file: "content/settings.json"
+        fields:
+          - label: "Brand"
+            name: "brand"
+            widget: "object"
+            fields:
+              - { label: "Site Name", name: "site_name", widget: "string" }
+              - { label: "Legal Name", name: "legal_name", widget: "string" }
+          - label: "SEO Defaults"
+            name: "seo"
+            widget: "object"
+            fields:
+              - { label: "Default Description", name: "default_description", widget: "text" }
+              - { label: "Default OG Image", name: "default_og_image", widget: "image", required: false }
+          - label: "Navigation"
+            name: "nav"
+            widget: "object"
+            fields:
+              - label: "Logo"
+                name: "logo"
+                widget: "object"
+                fields:
+                  - { label: "Logo Image", name: "src", widget: "image" }
+                  - { label: "Logo Alt", name: "alt", widget: "string", required: false }
+                  - { label: "Logo Link", name: "href", widget: "string" }
+              - label: "Nav Items"
+                name: "items"
+                widget: "list"
+                fields:
+                  - { label: "Label", name: "label", widget: "string" }
+                  - { label: "Href", name: "href", widget: "string" }
+          - label: "Footer"
+            name: "footer"
+            widget: "object"
+            fields:
+              - label: "Logo"
+                name: "logo"
+                widget: "object"
+                fields:
+                  - { label: "Logo Image", name: "src", widget: "image" }
+                  - { label: "Logo Alt", name: "alt", widget: "string", required: false }
+                  - { label: "Logo Link", name: "href", widget: "string" }
+              - { label: "Tagline", name: "tagline", widget: "text" }
+              - label: "Address"
+                name: "address"
+                widget: "object"
+                fields:
+                  - { label: "Label", name: "label", widget: "string" }
+                  - { label: "Href", name: "href", widget: "string" }
+              - label: "Phone"
+                name: "phone"
+                widget: "object"
+                fields:
+                  - { label: "Label", name: "label", widget: "string" }
+                  - { label: "Href", name: "href", widget: "string" }
+              - label: "Email"
+                name: "email"
+                widget: "object"
+                fields:
+                  - { label: "Label", name: "label", widget: "string" }
+                  - { label: "Href", name: "href", widget: "string" }
+              - { label: "Hours", name: "hours", widget: "string" }
+              - { label: "Copyright", name: "copyright", widget: "string" }
+      - label: "Shared Sections"
+        name: "shared"
+        file: "content/shared.json"
+        fields:
+          - label: "CTA"
+            name: "cta"
+            widget: "object"
+            fields:
+              - { label: "Small Label", name: "label", widget: "string" }
+              - { label: "Line 1", name: "line_1", widget: "string" }
+              - { label: "Line 2", name: "line_2", widget: "string" }
+              - { label: "Button Label", name: "button_label", widget: "string" }
+              - { label: "Button Link", name: "button_href", widget: "string" }
+          - label: "Services"
+            name: "services"
+            widget: "object"
+            fields:
+              - { label: "Eyebrow", name: "eyebrow", widget: "string" }
+              - { label: "Title", name: "title", widget: "string" }
+              - { label: "Tagline", name: "tagline", widget: "text" }
+              - label: "Cards"
+                name: "cards"
+                widget: "list"
+                fields:
+                  - { label: "Title", name: "title", widget: "string" }
+                  - { label: "Body", name: "body", widget: "text" }
+                  - { label: "Image", name: "image", widget: "image" }
+          - label: "FAQ"
+            name: "faq"
+            widget: "object"
+            fields:
+              - { label: "Title", name: "title", widget: "string" }
+              - { label: "Subtitle", name: "subtitle", widget: "string" }
+              - label: "Items"
+                name: "items"
+                widget: "list"
+                fields:
+                  - { label: "Question", name: "question", widget: "string" }
+                  - { label: "Answer", name: "answer", widget: "text" }
+          - label: "Metrics"
+            name: "metrics"
+            widget: "list"
+            fields:
+              - { label: "Value", name: "value", widget: "string" }
+              - { label: "Label", name: "label", widget: "string" }
+
+  - name: "pages"
+    label: "Pages"
+    files:
+      - label: "Home"
+        name: "home"
+        file: "content/pages/home.json"
+        fields:
+          - { label: "Meta", name: "meta", widget: "object", fields: [ {label: "Title", name: "title", widget: "string"}, {label: "Description", name: "description", widget: "text"}, {label: "OG Image", name: "og_image", widget: "image", required: false} ] }
+          - { label: "Hero", name: "hero", widget: "object", fields: [ {label: "CTA Link", name: "cta_href", widget: "string"} ] }
+          - label: "Brands"
+            name: "brands"
+            widget: "list"
+            field: { label: "Logo", name: "src", widget: "image" }
+          - { label: "Works Title", name: "works_title", widget: "string" }
+          - label: "Featured Works"
+            name: "featured_works"
+            widget: "list"
+            fields:
+              - { label: "Slug", name: "slug", widget: "string" }
+              - { label: "Title", name: "title", widget: "string" }
+              - { label: "Badge 1", name: "badge_1", widget: "string" }
+              - { label: "Badge 2", name: "badge_2", widget: "string", required: false }
+              - { label: "Image", name: "image", widget: "image" }
+              - { label: "Href", name: "href", widget: "string" }
+          - label: "Testimonials"
+            name: "testimonials"
+            widget: "list"
+            fields:
+              - { label: "Quote", name: "quote", widget: "text" }
+              - { label: "Name", name: "name", widget: "string" }
+              - { label: "Role", name: "role", widget: "string" }
+              - { label: "Image", name: "image", widget: "image" }
+      - label: "About"
+        name: "about"
+        file: "content/pages/about.json"
+        fields:
+          - { label: "Meta", name: "meta", widget: "object", fields: [ {label: "Title", name: "title", widget: "string"}, {label: "Description", name: "description", widget: "text"}, {label: "OG Image", name: "og_image", widget: "image", required: false} ] }
+          - label: "Hero"
+            name: "hero"
+            widget: "object"
+            fields:
+              - { label: "Eyebrow", name: "eyebrow", widget: "string" }
+              - { label: "Heading", name: "heading", widget: "string" }
+              - { label: "Body HTML", name: "body_html", widget: "text" }
+              - { label: "Image", name: "image", widget: "image" }
+          - label: "Story"
+            name: "story"
+            widget: "object"
+            fields:
+              - { label: "Title Prefix", name: "title_prefix", widget: "string" }
+              - { label: "Title", name: "title", widget: "string" }
+              - { label: "Eyebrow", name: "eyebrow", widget: "string" }
+              - { label: "Summary", name: "summary", widget: "text" }
+              - { label: "Body HTML", name: "body_html", widget: "text" }
+              - { label: "Image", name: "image", widget: "image", required: false }
+          - label: "Testimonials"
+            name: "testimonials"
+            widget: "list"
+            fields:
+              - { label: "Quote", name: "quote", widget: "text" }
+              - { label: "Name", name: "name", widget: "string" }
+              - { label: "Role", name: "role", widget: "string" }
+              - { label: "Image", name: "image", widget: "image" }
+      - label: "Works Page"
+        name: "works"
+        file: "content/pages/works.json"
+        fields:
+          - { label: "Meta", name: "meta", widget: "object", fields: [ {label: "Title", name: "title", widget: "string"}, {label: "Description", name: "description", widget: "text"}, {label: "OG Image", name: "og_image", widget: "image", required: false} ] }
+          - { label: "Header", name: "header", widget: "object", fields: [ {label: "Title", name: "title", widget: "string"}, {label: "Subtitle", name: "subtitle", widget: "text"} ] }
+      - label: "Contact"
+        name: "contact"
+        file: "content/pages/contact.json"
+        fields:
+          - { label: "Meta", name: "meta", widget: "object", fields: [ {label: "Title", name: "title", widget: "string"}, {label: "Description", name: "description", widget: "text"}, {label: "OG Image", name: "og_image", widget: "image", required: false} ] }
+          - { label: "Header", name: "header", widget: "object", fields: [ {label: "Title", name: "title", widget: "string"}, {label: "Subtitle", name: "subtitle", widget: "text"} ] }
+          - label: "Form"
+            name: "form"
+            widget: "object"
+            fields:
+              - { label: "Name Label", name: "name_label", widget: "string" }
+              - { label: "Name Placeholder", name: "name_placeholder", widget: "string" }
+              - { label: "Email Label", name: "email_label", widget: "string" }
+              - { label: "Email Placeholder", name: "email_placeholder", widget: "string" }
+              - { label: "Phone Label", name: "phone_label", widget: "string" }
+              - { label: "Phone Placeholder", name: "phone_placeholder", widget: "string" }
+              - { label: "Message Label", name: "message_label", widget: "string" }
+              - { label: "Message Placeholder", name: "message_placeholder", widget: "string" }
+              - { label: "Submit Label", name: "submit_label", widget: "string" }
+              - { label: "Success Message", name: "success_message", widget: "string" }
+              - { label: "Error Message", name: "error_message", widget: "string" }
+      - label: "Privacy Policy"
+        name: "privacy-policy"
+        file: "content/pages/privacy-policy.json"
+        fields:
+          - { label: "Meta", name: "meta", widget: "object", fields: [ {label: "Title", name: "title", widget: "string"}, {label: "Description", name: "description", widget: "text"} ] }
+          - { label: "Header", name: "header", widget: "object", fields: [ {label: "Title", name: "title", widget: "string"} ] }
+          - { label: "Body HTML", name: "body_html", widget: "text" }
+      - label: "Terms & Conditions"
+        name: "terms-conditions"
+        file: "content/pages/terms-conditions.json"
+        fields:
+          - { label: "Meta", name: "meta", widget: "object", fields: [ {label: "Title", name: "title", widget: "string"}, {label: "Description", name: "description", widget: "text"} ] }
+          - { label: "Header", name: "header", widget: "object", fields: [ {label: "Title", name: "title", widget: "string"} ] }
+          - { label: "Body HTML", name: "body_html", widget: "text" }
+
+  - name: "works"
+    label: "Case Studies"
+    folder: "content/works"
+    create: false
+    extension: "json"
+    fields:
+      - { label: "Slug", name: "slug", widget: "string" }
+      - { label: "Meta", name: "meta", widget: "object", fields: [ {label: "Title", name: "title", widget: "string"}, {label: "Description", name: "description", widget: "text"}, {label: "OG Image", name: "og_image", widget: "image", required: false} ] }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Summary", name: "summary", widget: "text" }
+      - { label: "Client", name: "client", widget: "string" }
+      - { label: "Category", name: "category", widget: "string" }
+      - { label: "Date", name: "date", widget: "string" }
+      - { label: "Hero Image", name: "hero_image", widget: "image" }
+      - { label: "Body HTML", name: "body_html", widget: "text" }
+      - label: "Gallery"
+        name: "gallery"
+        widget: "list"
+        field: { label: "Image", name: "image", widget: "image" }

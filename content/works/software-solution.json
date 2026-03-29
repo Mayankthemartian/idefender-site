@@ -1,0 +1,26 @@
+{
+  "slug": "software-solution",
+  "meta": {
+    "title": "iDefender",
+    "description": "iDesigner Lite, the portfolio Webflow Template for its intuitive CMS and versatile animations are geared towards enriching the user experience.",
+    "og_title": "iDesigner Lite - Webflow HTML website template",
+    "og_description": "iDesigner Lite, the portfolio Webflow Template for its intuitive CMS and versatile animations are geared towards enriching the user experience.",
+    "og_image": "../images/dts_grand_design_daniel_far-c3-b2_photos_id4156.jpg",
+    "twitter_title": "iDesigner Lite - Webflow HTML website template",
+    "twitter_description": "iDesigner Lite, the portfolio Webflow Template for its intuitive CMS and versatile animations are geared towards enriching the user experience.",
+    "twitter_image": "../images/dts_grand_design_daniel_far-c3-b2_photos_id4156.jpg"
+  },
+  "title": "Niyanta AI — Intelligent Automation",
+  "summary": "This engagement involved designing and deploying an intelligent automation engine for an enterprise environment where operational complexity had begun to outpace manual control. Niyanta AI was implemented to observe system behavior in real time, learn from historical execution patterns, and autonomously optimize workflows across infrastructure and operations. The focus was on reducing human dependency while preserving governance, auditability, and control in high-availability, regulated environments.",
+  "client": "Orion FS",
+  "category": "Automation",
+  "date": "February 3, 2024",
+  "hero_image": "../images/dts_grand_design_daniel_far-c3-b2_photos_id4156.jpg",
+  "body_html": "<div class=\"works-rich-text slide-up-animation w-richtext\"><h2>Project Overview:</h2><p>This engagement focused on implementing an intelligent automation layer for Orion Financial Services, a mid-sized financial services organization operating a distributed IT and operations stack across cloud and on-premise environments. The client was experiencing growing operational complexity, frequent incident escalations, and increasing dependency on manual intervention despite having mature monitoring and ticketing systems in place.</p><p>The objective was not to introduce another automation tool, but to architect an adaptive automation framework capable of learning from operational behavior and responding intelligently to real-time signals. Niyanta AI was deployed as an orchestration and decision layer sitting across infrastructure monitoring, incident management, and operational workflows, enabling the system to move from reactive response to predictive and autonomous execution.</p><h3>Objectives:</h3><p>The primary objective was to reduce operational friction caused by repetitive incidents, manual triage, and delayed remediation. Orion required automation that could operate safely within regulated environments, ensuring every action remained auditable, explainable, and aligned with internal governance standards.</p><p>A key requirement was that automation should adapt over time rather than remain dependent on static rules. The platform needed to recognize recurring patterns across incidents, tickets, and system metrics, and respond proportionally based on severity, historical outcomes, and current system state. At the same time, the client required full visibility into automated decisions to maintain operational trust and compliance readiness.</p><h3>Scope of Work:</h3><p>The scope of work involved deploying Niyanta AI as an intelligent execution layer integrated with Orion’s existing monitoring, ticketing, and infrastructure management systems. The platform was configured to ingest real-time operational signals, historical incident data, and unstructured ticket information to build behavioral models of the client’s operational environment.</p><p>This included implementing event-driven automation workflows for incident detection and response, NLP-based analysis of service desk tickets to identify recurring failure patterns, and autonomous remediation workflows for known operational scenarios. Predictive models were introduced to anticipate capacity constraints and performance degradation before they escalated into incidents.</p><p>Special attention was given to governance and control. All automated actions were designed to be traceable, reversible, and configurable, allowing operations teams to review execution paths and refine automation behavior over time. Feedback loops were embedded into the system to ensure continuous learning, enabling the platform to improve response accuracy and efficiency as operational conditions evolved.</p><p>The engagement resulted in a resilient automation framework that significantly reduced manual workload, improved incident response times, and allowed Orion’s operations teams to focus on higher-value decision-making rather than repetitive firefighting.</p>",
+  "gallery": [
+    "../images/dts_midnight_agenda_shauna_summers_photos_id13064.jpg",
+    "../images/dts_new_studio_daniel_far-c3-b2_photos_id5608-1.jpg",
+    "../images/dts_misc_1_-nick_fancher-_nick_fancher_photos_id6069.jpg"
+  ],
+  "link": "/works/software-solution"
+}

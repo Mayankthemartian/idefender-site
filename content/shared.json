@@ -1,0 +1,80 @@
+{
+  "cta": {
+    "label": "Contact us",
+    "line_1": "GET IN",
+    "line_2": "TOUCH",
+    "button_label": "Contact",
+    "button_href": "/contact"
+  },
+  "services": {
+    "eyebrow": "ENTERPRISE CAPABILITIES",
+    "title": "SERVICES",
+    "tagline": "Every iDefender service is built to support long-term enterprise operations—secure, compliant, and scalable from day one.",
+    "cards": [
+      {
+        "title": "PLATFORMS",
+        "body": "We design and deploy enterprise-grade platforms that unify intelligence, governance, and operations into scalable digital backbones. Our platforms are purpose-built to handle complex enterprise environments, high data volumes, and mission-critical workloads.",
+        "image": "images/dts_reform_franco_dupuy_photos_id13653.jpg"
+      },
+      {
+        "title": "GOVERNANCE",
+        "body": "Policy, compliance, and operational governance frameworks embedded directly into enterprise platforms by design. We ensure security, audit readiness, and regulatory alignment are foundational—not retrofitted.",
+        "image": "images/dts_new_studio_daniel_far-c3-b2_photos_id5608.jpg"
+      },
+      {
+        "title": "Development",
+        "body": "Custom engineering for complex enterprise systems, integrations, and platform extensions. We build high-performance, scalable solutions that integrate seamlessly with existing enterprise infrastructure and workflows.",
+        "image": "images/creativedesignstudiox.jpg"
+      },
+      {
+        "title": "DATA & ANALYTICS ENGINEERING",
+        "body": "Engineering enterprise-grade data pipelines, analytics layers, and intelligence systems that power real-time reporting, predictive insights, and informed decision-making at scale.",
+        "image": "images/dts_shadow_tech_fanette_guilloud_photos_id9379.jpg"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Contact",
+    "subtitle": "Let’s discuss your platform, governance, or intelligence requirements. Our team will respond with clarity on scope, feasibility, and next steps.",
+    "items": [
+      {
+        "question": "What types of services does iDefender offer?",
+        "answer": "iDefender provides enterprise platform development, advisory, and managed services. Our offerings include intelligence platforms, governance and compliance systems, automation engines, commerce platforms, and supporting cloud, security, and operational services."
+      },
+      {
+        "question": "What do you need from us to start a project?",
+        "answer": "We begin with a discovery phase to understand your operational landscape, existing systems, governance requirements, and business objectives. Access to key stakeholders and technical context helps us define the right platform approach."
+      },
+      {
+        "question": "How long does it take to deploy an iDefender platform?",
+        "answer": "Deployment timelines vary based on platform scope and integration complexity. Initial deployments typically range from a few weeks to a few months, followed by phased scaling and optimization."
+      },
+      {
+        "question": "What is the cost of your platforms and services?",
+        "answer": "Pricing is structured based on platform selection, customization, deployment scope, and ongoing operational requirements. We provide transparent, engagement-based pricing after initial assessment."
+      },
+      {
+        "question": "Do you offer ongoing support and revisions?",
+        "answer": "Yes. All iDefender platforms are supported through ongoing operations, updates, and enhancements. Our managed services ensure continuous performance, security, and scalability."
+      }
+    ]
+  },
+  "metrics": [
+    {
+      "value": "4",
+      "label": "We build enterprise platforms that unify intelligence, automate governance, and scale mission-critical operations for modern organizations. iDefender combines proprietary platforms with deep advisory expertise to solve complex enterprise challenges at scale. Founded through years of enterprise IT services and operations, we identified recurring patterns across industries—fragmented data, governance gaps, and operational inefficiencies. Rather than addressing these issues in isolation, we built platforms designed to solve them systematically. Today, our platforms power intelligence, compliance, automation, and commerce for enterprises that demand reliability, security, and scale. Our advisory services ensure these platforms deliver measurable value from implementation through long-term operations."
+    },
+    {
+      "value": "500+",
+      "label": "Enterprise Platforms"
+    },
+    {
+      "value": "99.9%",
+      "label": "Deployments"
+    },
+    {
+      "value": "24/7",
+      "label": "Platform Uptime"
+    }
+  ]
+}

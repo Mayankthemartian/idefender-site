@@ -1,0 +1,26 @@
+{
+  "slug": "development",
+  "meta": {
+    "title": "iDefender",
+    "description": "iDesigner Lite, the portfolio Webflow Template for its intuitive CMS and versatile animations are geared towards enriching the user experience.",
+    "og_title": "iDesigner Lite - Webflow HTML website template",
+    "og_description": "iDesigner Lite, the portfolio Webflow Template for its intuitive CMS and versatile animations are geared towards enriching the user experience.",
+    "og_image": "../images/dts_shadow_tech_fanette_guilloud_photos_id9337.jpg",
+    "twitter_title": "iDesigner Lite - Webflow HTML website template",
+    "twitter_description": "iDesigner Lite, the portfolio Webflow Template for its intuitive CMS and versatile animations are geared towards enriching the user experience.",
+    "twitter_image": "../images/dts_shadow_tech_fanette_guilloud_photos_id9337.jpg"
+  },
+  "title": "Platform Architecture & Engineering",
+  "summary": "This engagement focused on iDefender’s platform architecture and engineering services, applied to building scalable, resilient enterprise systems designed to operate reliably under high data volume, complex integrations, and evolving business requirements.",
+  "client": "Orion Systems",
+  "category": "Enterprise Tech",
+  "date": "February 26, 2024",
+  "hero_image": "../images/dts_shadow_tech_fanette_guilloud_photos_id9337.jpg",
+  "body_html": "<div class=\"works-rich-text slide-up-animation w-richtext\"><h2>Project Overview:</h2><p>This project centered on strengthening the architectural foundation behind <strong>Vivechana</strong>, iDefender’s enterprise intelligence platform. The objective was to design a robust digital backbone capable of unifying services, data flows, and operational workflows into a single, coherent system.</p><p>The architecture was designed to support real-time intelligence workloads while maintaining performance, fault tolerance, and long-term maintainability as enterprise usage scaled.</p><h3>Objectives:</h3><p>The primary objective was to enable <strong>Niyanta</strong> to operate as a governance-first platform without compromising system performance or developer velocity. This required embedding governance and compliance capabilities directly into the platform architecture rather than treating them as external controls.</p><p>A strong emphasis was placed on auditability, traceability, and policy enforcement at the infrastructure and service layers, ensuring Niyanta could meet enterprise regulatory expectations by design.</p><h3>Scope of Work:</h3><p>The scope of work focused on the core platform engineering required to support <strong>Vivechana</strong>, including service boundary definition, infrastructure design, and deployment automation. This involved standardizing runtime environments, establishing secure service communication, and enabling observability across the platform.</p><p>Particular attention was given to system resilience and scalability, ensuring Vivechana could support continuous data ingestion and analytics workloads without operational degradation.</p><h3>Outcome &amp; Impact</h3><p>The resulting architecture significantly improved the reliability and scalability of <strong>Niyanta</strong>, allowing governance workflows to operate continuously rather than as periodic, manual processes. Compliance readiness improved through centralized visibility and consistent enforcement across environments.</p><p>By strengthening the underlying platform architecture, iDefender enabled Niyanta to evolve as a long-term enterprise system capable of adapting to increasing regulatory and operational complexity.</p>",
+  "gallery": [
+    "../images/dts_misc_1_-nick_fancher-_nick_fancher_photos_id6069.jpg",
+    "../images/dts_midnight_agenda_shauna_summers_photos_id13064.jpg",
+    "../images/dts_new_studio_daniel_far-c3-b2_photos_id5608-1.jpg"
+  ],
+  "link": "/works/development"
+}

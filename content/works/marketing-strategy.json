@@ -1,0 +1,26 @@
+{
+  "slug": "marketing-strategy",
+  "meta": {
+    "title": "iDefender",
+    "description": "iDesigner Lite, the portfolio Webflow Template for its intuitive CMS and versatile animations are geared towards enriching the user experience.",
+    "og_title": "iDesigner Lite - Webflow HTML website template",
+    "og_description": "iDesigner Lite, the portfolio Webflow Template for its intuitive CMS and versatile animations are geared towards enriching the user experience.",
+    "og_image": "../images/dts_new_studio_daniel_far-c3-b2_photos_id5608-1.jpg",
+    "twitter_title": "iDesigner Lite - Webflow HTML website template",
+    "twitter_description": "iDesigner Lite, the portfolio Webflow Template for its intuitive CMS and versatile animations are geared towards enriching the user experience.",
+    "twitter_image": "../images/dts_new_studio_daniel_far-c3-b2_photos_id5608-1.jpg"
+  },
+  "title": "Niyanta — Governance & Compliance",
+  "summary": "An enterprise governance and compliance platform designed to centralize policy management, automate regulatory oversight, and embed accountability directly into day-to-day operations across complex digital environments.",
+  "client": "Astra Capital",
+  "category": "Governance",
+  "date": "June 6, 2024",
+  "hero_image": "../images/dts_new_studio_daniel_far-c3-b2_photos_id5608-1.jpg",
+  "body_html": "<div class=\"works-rich-text slide-up-animation w-richtext\"><h2>Project Overview:</h2><p>This engagement focused on designing and implementing a comprehensive IT Governance and Compliance platform for a multi-entity enterprise operating in regulated environments. The client faced growing complexity across policies, controls, and audit requirements, driven by rapid digital expansion and fragmented governance processes.</p><p>iDefender implemented Niyanta as a centralized governance layer to bring structure, visibility, and accountability to technology operations. The platform was designed to align regulatory requirements, internal policies, and enterprise risk objectives into a single, auditable system—enabling leadership to govern with clarity rather than reactive controls.</p><h3>Objectives:</h3><p>The primary objective was to eliminate fragmented governance processes and establish a single source of truth for compliance and risk management across the organization’s technology landscape.</p><p>Key goals included improving audit readiness, strengthening continuous risk oversight, and embedding governance directly into operational workflows rather than treating compliance as a periodic or manual exercise. The platform needed to provide executive-level visibility while remaining flexible enough to scale with organizational growth and evolving regulatory demands.</p><h3>Scope of Work:</h3><p>The scope covered the end-to-end design and deployment of an enterprise IT governance framework aligned with industry standards and regulatory requirements. This included defining governance structures, mapping policies to controls, and establishing measurable compliance checkpoints across systems and teams.</p><p>Niyanta incorporated automated compliance monitoring, policy lifecycle management, and centralized audit evidence collection to significantly reduce manual effort. Risk assessment mechanisms were implemented to continuously evaluate control effectiveness and surface potential gaps before they escalated into violations.</p><p>Role-based access controls, approval workflows, and traceability mechanisms were embedded to ensure accountability across governance actions, while seamless integration with existing enterprise systems allowed compliance data to flow naturally within daily operations.</p><h3><strong>Outcome &amp; Impact</strong></h3><p>The implementation transformed governance from a reactive obligation into a proactive, system-driven capability. Audit preparation time was significantly reduced through centralized documentation and real-time compliance visibility.</p><p>Leadership gained a unified view of governance health across departments, enabling faster, data-backed decision-making. By embedding controls directly into operational workflows, the organization achieved stronger risk management, higher regulatory confidence, and improved operational discipline.</p><p>Niyanta now serves as a foundational governance layer, supporting sustained compliance, scalability, and long-term enterprise resilience as the organization continues to grow and evolve.</p>",
+  "gallery": [
+    "../images/dts_midnight_agenda_shauna_summers_photos_id13064.jpg",
+    "../images/dts_jelly_-misc-_jelly_luise_photos_id10196.jpg",
+    "../images/dts_misc_1_-nick_fancher-_nick_fancher_photos_id6069.jpg"
+  ],
+  "link": "/works/marketing-strategy"
+}

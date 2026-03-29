@@ -1,0 +1,57 @@
+{
+  "brand": {
+    "site_name": "iDefender",
+    "legal_name": "iDefender IT Services Pvt Ltd"
+  },
+  "seo": {
+    "default_description": "iDesigner Lite, the portfolio Webflow Template for its intuitive CMS and versatile animations are geared towards enriching the user experience.",
+    "default_og_image": "images/seo.png"
+  },
+  "nav": {
+    "logo": {
+      "src": "images/logo.png",
+      "alt": "",
+      "href": "/"
+    },
+    "items": [
+      {
+        "label": "Home",
+        "href": "/"
+      },
+      {
+        "label": "About",
+        "href": "/about"
+      },
+      {
+        "label": "Works",
+        "href": "/works"
+      },
+      {
+        "label": "Contact",
+        "href": "/contact"
+      }
+    ]
+  },
+  "footer": {
+    "logo": {
+      "src": "images/logo.png",
+      "alt": "",
+      "href": "/"
+    },
+    "tagline": "Enterprise platforms and advisory services designed to unify intelligence, automate governance, and scale operations.",
+    "address": {
+      "label": "Address",
+      "href": "https://share.google/rN9kWZTbzSBn4KkpW"
+    },
+    "phone": {
+      "label": "+91 8382957938",
+      "href": "tel:+918382957938"
+    },
+    "email": {
+      "label": "info@idefender.io",
+      "href": "mailto:info@idefender.io?subject=Connect%20with%20us%20today!"
+    },
+    "hours": "Mon - Fri: 9:00 AM - 6:00 PM",
+    "copyright": "© 2026 iDefender IT Services Pvt Ltd. All rights reserved."
+  }
+}

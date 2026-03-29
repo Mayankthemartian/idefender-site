@@ -1,0 +1,96 @@
+{
+  "meta": {
+    "title": "iDefender",
+    "description": "iDesigner Lite, the portfolio Webflow Template for its intuitive CMS and versatile animations are geared towards enriching the user experience.",
+    "og_title": "iDesigner Lite - Webflow HTML website template",
+    "og_description": "iDesigner Lite, the portfolio Webflow Template for its intuitive CMS and versatile animations are geared towards enriching the user experience.",
+    "og_image": "images/seo.png",
+    "twitter_title": "iDesigner Lite - Webflow HTML website template",
+    "twitter_description": "iDesigner Lite, the portfolio Webflow Template for its intuitive CMS and versatile animations are geared towards enriching the user experience.",
+    "twitter_image": "images/seo.png"
+  },
+  "hero": {
+    "cta_href": "/contact"
+  },
+  "brands": [
+    {
+      "src": "images/company-3dwatchtower-2c-20style-3dbadge-2c-20dark-20mode-3dfalse.png",
+      "alt": ""
+    },
+    {
+      "src": "images/company-3dfocalpoint-2c-20style-3dbadge-2c-20dark-20mode-3dfalse.png",
+      "alt": ""
+    },
+    {
+      "src": "images/company-3dsolaris-20energy-2c-20style-3ddefault-2c-20dark-20mode-3dfalse.png",
+      "alt": ""
+    },
+    {
+      "src": "images/company-3dsisyphus-2c-20style-3ddefault-2c-20dark-20mode-3dfalse.png",
+      "alt": ""
+    },
+    {
+      "src": "images/company-3dmagnolia-2c-20style-3ddefault-2c-20dark-20mode-3dfalse.png",
+      "alt": ""
+    },
+    {
+      "src": "images/company-3dspherule-2c-20style-3ddefault-2c-20dark-20mode-3dfalse.png",
+      "alt": ""
+    },
+    {
+      "src": "images/company-3dluckycharm-2c-20style-3ddefault-2c-20dark-20mode-3dfalse.png",
+      "alt": ""
+    },
+    {
+      "src": "images/company-3dsolaris-20energy-2c-20style-3ddefault-2c-20dark-20mode-3dfalse.png",
+      "alt": ""
+    }
+  ],
+  "works_title": "our Works",
+  "featured_works": [
+    {
+      "slug": "brand-identity",
+      "title": "Vivechana — Enterprise Intelligence",
+      "badge_1": "Intelligence",
+      "badge_2": "Analytics Platform",
+      "image": "images/dts_new_studio_daniel_far-c3-b2_photos_id5624.jpg",
+      "href": "/works/brand-identity"
+    },
+    {
+      "slug": "development",
+      "title": "Platform Architecture & Engineering",
+      "badge_1": "Enterprise Tech",
+      "badge_2": "Enterprise Systems",
+      "image": "images/dts_shadow_tech_fanette_guilloud_photos_id9337.jpg",
+      "href": "/works/development"
+    },
+    {
+      "slug": "website-redesign",
+      "title": "Digital Transformation",
+      "badge_1": "Enterprise",
+      "badge_2": "Operations",
+      "image": "images/dts_bedroom_dj_agust-c3-adn_far-c3-adas_photos_id11660.jpg",
+      "href": "/works/website-redesign"
+    }
+  ],
+  "testimonials": [
+    {
+      "quote": "At i Defender, we provide integrated technology services across Cybersecurity, DevOps, DevSecOps, Quality Assurance, Compliance, and AIOps, enabling organizations to build secure, scalable, and resilient digital systems. Thank you for visiting. We look forward to being your trusted IT and transformation partner.",
+      "name": "Vijay Shukla",
+      "role": "Chief Technical Officer",
+      "image": "images/download-20-14-.jpg"
+    },
+    {
+      "quote": "i Defender's Niyantā transformed our project management and audit processes through ERPNext automation. Their system-driven approach improved control, streamlined our construction workflows, implemented strong maker-checker governance, and provided real-time visibility across projects. Today, we operate with stronger financial discipline, transparency, and efficiency.",
+      "name": "Sunny Kumar",
+      "role": "Director, Frolic Infra Projects Pvt Ltd",
+      "image": "images/download-20-13-.jpg"
+    },
+    {
+      "quote": "i Defender IT Services Pvt Ltd has been our trusted technology partner at Bazaar Bandhu for app and CRM development. Their team delivered customized, scalable solutions that streamlined our operations and significantly enhanced our sales management processes. Their professionalism, technical expertise, and proactive support make them a dependable partner for any growing business. We highly recommend iDefender's services.",
+      "name": "Vishnu Chaudhary",
+      "role": "CEO, Bazaar Bandhu",
+      "image": "images/download-20-4-.jpg"
+    }
+  ]
+}
